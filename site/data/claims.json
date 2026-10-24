@@ -1,0 +1,147 @@
+{
+ "asof": "2026-10-24",
+ "kobeissi_post": "The Kobeissi Letter on X, 'Layoff Announcements in 2026' (seen by user ~23 Oct 2026)",
+ "kobeissi": [
+  {
+   "company": "UPS",
+   "claimed": "30,000",
+   "status": "Verified",
+   "detail": "Up to 30,000 operational jobs in 2026, mostly attrition/buyouts (Reuters, Bloomberg)",
+   "src": "https://www.reuters.com/business/retail-consumer/ups-forecasts-higher-2026-revenue-2026-01-27/"
+  },
+  {
+   "company": "Oracle",
+   "claimed": "30,000",
+   "status": "Partly verified",
+   "detail": "Layoffs confirmed (CNBC, BBC) but Oracle never confirmed a total; 20–30k is a TD Cowen estimate",
+   "src": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html"
+  },
+  {
+   "company": "Amazon",
+   "claimed": "16,000",
+   "status": "Verified",
+   "detail": "Company statement + Reuters, 28 Jan 2026",
+   "src": "https://www.aboutamazon.com/news/company-news/amazon-layoffs-corporate-jan-2026"
+  },
+  {
+   "company": "Omnicom",
+   "claimed": "15,000",
+   "status": "Partly verified",
+   "detail": "CFO: headcount 120k→105k by end-2026, includes disposals/outsourcing — not 15,000 layoffs. Reuters confirmed >4,000 cuts (Dec 2025)",
+   "src": "https://www.reuters.com/business/media-telecom/omnicom-cut-4000-jobs-shut-several-agencies-after-ipg-takeover-ft-reports-2025-12-01/"
+  },
+  {
+   "company": "Meta",
+   "claimed": "8,000",
+   "status": "Verified",
+   "detail": "~10% of staff, 20 May 2026 (Reuters, AP)",
+   "src": "https://www.reuters.com/world/meta-lays-out-plans-may-20-layoffs-restructuring-internal-document-says-2026-05-18/"
+  },
+  {
+   "company": "Microsoft",
+   "claimed": "4,800",
+   "status": "Verified",
+   "detail": "Microsoft blog + Reuters, 6 Jul 2026",
+   "src": "https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/"
+  },
+  {
+   "company": "Dow",
+   "claimed": "4,500",
+   "status": "Verified",
+   "detail": "Reuters, 29 Jan 2026",
+   "src": "https://www.reuters.com/sustainability/chemicals-maker-dow-eliminate-4500-roles-targets-2-billion-core-profit-boost-2026-01-29/"
+  },
+  {
+   "company": "Cisco",
+   "claimed": "<4,000",
+   "status": "Verified",
+   "detail": "Cisco blog + Reuters, May 2026",
+   "src": "https://blogs.cisco.com/news/our-path-forward"
+  },
+  {
+   "company": "American Express",
+   "claimed": "3,840",
+   "status": "Partly verified",
+   "detail": "5% cut confirmed (CNBC, 23 Oct 2026); WSJ says ~3,500. 3,840 = 5% of end-2025 headcount",
+   "src": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html"
+  },
+  {
+   "company": "Uber",
+   "claimed": "3,300",
+   "status": "Verified",
+   "detail": "~10% of staff, 2 Sep 2026 (WSJ, NYT, Reuters)",
+   "src": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/Qz242lKpuPXtWvZVwe1G"
+  },
+  {
+   "company": "Renault",
+   "claimed": "up to 2,400",
+   "status": "Verified",
+   "detail": "15–20% of engineers over 2 years (Reuters); 2,400 per Automotive News",
+   "src": "https://www.reuters.com/business/retail-consumer/renault-will-cut-engineering-staff-by-15-20-over-two-years-2026-04-14/"
+  },
+  {
+   "company": "Nike",
+   "claimed": "1,400",
+   "status": "Verified",
+   "detail": "Nike newsroom + Reuters, 23 Apr 2026",
+   "src": "https://www.reuters.com/business/nike-cut-1400-jobs-2026-04-23/"
+  },
+  {
+   "company": "General Motors",
+   "claimed": "1,300",
+   "status": "Verified, but temporary",
+   "detail": "Temporary layoff at Detroit EV plant (Reuters) — not a permanent cut",
+   "src": "https://www.reuters.com/business/autos-transportation/gm-idles-detroit-ev-plant-temporarily-laying-off-1300-2026-03-30/"
+  },
+  {
+   "company": "Disney",
+   "claimed": "1,000",
+   "status": "Verified",
+   "detail": "Reuters, AP, Apr 2026",
+   "src": "https://www.reuters.com/legal/litigation/disney-eliminate-1000-positions-2026-04-14/"
+  },
+  {
+   "company": "Citigroup",
+   "claimed": "1,000",
+   "status": "Verified",
+   "detail": "Reuters (source), Jan 2026; part of 20,000 plan",
+   "src": "https://www.reuters.com/sustainability/citigroup-is-set-cut-about-1000-jobs-bloomberg-news-reports-2026-01-12/"
+  },
+  {
+   "company": "Tech total 2026",
+   "claimed": "135,000 across 330 companies",
+   "status": "Verified",
+   "detail": "Layoffs.fyi shows 135,246 tech employees at 332 companies in 2026 (fetched 24 Oct 2026)",
+   "src": "https://layoffs.fyi/"
+  }
+ ],
+ "turkish_post": "Translated-from-Turkish X post 'Reporting from China' (seen by user ~23 Oct 2026)",
+ "turkish": [
+  {
+   "claim": "Only 25% of China's 12 million graduates found jobs",
+   "verdict": "Unverified",
+   "facts": "The graduate count is real: China expected a record 12.7 million in 2026 (Ministry of Education via Xinhua). No official source publishes a 25% job-placement rate; NBS's Sept 2026 rate for urban 16–24s (excl. students) was 18.0% unemployed.",
+   "src": [
+    "https://english.news.cn/20251120/3277566206e4490e94d9632d2bc5d409/c.html",
+    "https://www.caixinglobal.com/2026-10-21/chinas-youth-unemployment-rate-eases-to-18-102495753.html"
+   ]
+  },
+  {
+   "claim": "Officially 25% of 18–25 year-olds jobless; unofficially ~40%",
+   "verdict": "Misleading",
+   "facts": "Official rate is 18.0% (Sept 2026) / 18.9% peak (Aug 2026) for ages 16–24 excl. students — not 25%. The old method peaked at 21.3% (June 2023) before NBS suspended it. The 'unofficial ~40%' likely traces to a 2023 estimate of up to 46.5% by Peking Univ. professor Zhang Dandan that counted people not looking for work.",
+   "src": [
+    "https://www.reuters.com/world/china/china-stop-releasing-youth-jobless-rate-data-aug-says-stats-bureau-2023-08-15/",
+    "https://www.reuters.com/article/idUSL4N3960Z5/"
+   ]
+  },
+  {
+   "claim": "Over 40 and laid off: chance of finding a new job is zero",
+   "verdict": "Unverified (hyperbole)",
+   "facts": "No data supports 'zero'. NBS's urban unemployment rate for ages 30–59 was 3.9% in Sept 2026. NBS doesn't publish re-employment odds by age.",
+   "src": [
+    "https://economy.caixin.com/2026-10-21/102495714.html"
+   ]
+  }
+ ]
+}

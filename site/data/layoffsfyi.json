@@ -1,0 +1,22 @@
+{
+ "asof": "2026-10-24",
+ "source": "Layoffs.fyi (tech & startup layoffs tracker)",
+ "src": "https://layoffs.fyi/",
+ "years": [
+  {
+   "year": 2026,
+   "employees": 135246,
+   "companies": 332
+  },
+  {
+   "year": 2025,
+   "employees": 122606,
+   "companies": 278
+  },
+  {
+   "year": 2024,
+   "employees": 152922,
+   "companies": 551
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "asof": "2026-10-24",
+ "source": "Challenger, Gray & Christmas \u2014 Challenger Report (Dec 2024 and Sept 2026 editions)",
+ "src": [
+  "https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf",
+  "https://www.challengergray.com/wp-content/uploads/2025/01/The-Challenger-Report-December-2024.pdf"
+ ],
+ "unit": "US announced job cuts per month",
+ "monthly": {
+  "2024-10": 55597,
+  "2024-11": 57727,
+  "2024-12": 38792,
+  "2025-01": 49795,
+  "2025-02": 172017,
+  "2025-03": 275240,
+  "2025-04": 105441,
+  "2025-05": 93816,
+  "2025-06": 47999,
+  "2025-07": 62075,
+  "2025-08": 85979,
+  "2025-09": 54064,
+  "2025-10": 153074,
+  "2025-11": 71321,
+  "2025-12": 35553,
+  "2026-01": 108435,
+  "2026-02": 48307,
+  "2026-03": 60620,
+  "2026-04": 83387,
+  "2026-05": 97006,
+  "2026-06": 45849,
+  "2026-07": 33429,
+  "2026-08": 52881,
+  "2026-09": 43281
+ },
+ "totals": {
+  "2024": 761358,
+  "2025": 1206374,
+  "2026_ytd_sep": 573195
+ },
+ "tech_ytd_sep_2026": 165925,
+ "ai_cited_ytd_sep_2026": 120136
+}

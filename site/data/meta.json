@@ -1,0 +1,11 @@
+{
+ "last_updated": "2026-10-24",
+ "missing": [
+  "US October 2025 BLS youth unemployment: never collected (federal government shutdown).",
+  "NY Fed recent-graduate data after June 2026: next quarterly update due ~November 2026.",
+  "China age 16–24 data for Oct 2024 onward is official NBS; the NBS online database blocks automated downloads, so monthly values were taken from a public NBS mirror and spot-checked against Reuters/Caixin for 4 months.",
+  "Oracle 2026 layoff total: Oracle never disclosed a number (20,000–30,000 is an analyst estimate) — left out of totals.",
+  "China graduate job-placement rate: no official figure published, so the '25% found jobs' claim cannot be checked against data.",
+  "Layoffs.fyi monthly breakdown: only annual totals are publicly available via its site; monthly chart uses Challenger's US announced job cuts instead."
+ ]
+}
